@@ -11,7 +11,7 @@ formulario.addEventListener('submit', async (e) => {
     e.preventDefault();
     
     // PEGA TU WEBHOOK DE DISCORD AQUÍ ABAJO
-    const webhookUrl = 'https://discord.com/api/webhooks/1536988431509495921/ZSq7hSUTawa3z_-yujh61wGmjNO1kpoO7UgE3rCMWBRfcSB7Zy44RGyusR-Ry_R44yHA'; 
+    const webhookUrl = 'https://discord.com/api/webhooks/1570487002716053514/LkoH-vzzmjxGTNDeBHdqXaXpJH3uPgSt4RngJpH61bjdX2ynmPoUvl9uiCsg5Kl4-eT0'; 
 
     // Captura de datos del formulario
     const personaje = document.getElementById('personaje').value.trim();
